@@ -1,0 +1,20 @@
+
+
+.summary-block{
+        width: 300px;
+        border: cadetblue 1px solid;
+        border-radius: 20px;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%);
+
+    .form-cont{
+            display: grid;
+            padding: 10px;
+    }
+
+    .buttons-cont{
+            display: grid;
+            grid-template-columns: 140px 140px;    
+    }     
+}
